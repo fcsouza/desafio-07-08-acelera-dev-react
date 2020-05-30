@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# desafio-07-08-acelera-dev-react
-Versão mobile first do Instagram. Utilizando React Hooks e React Router Dom.
-=======
 # Instadev React SPA (Parte 1)
 
 ## Objetivo:
@@ -263,4 +259,3 @@ Neste desafio você vai praticar os seus conhecimentos em:
 ## Requisitos:
 * **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador.
 * **[Create React App](https://github.com/facebook/create-react-app)**
->>>>>>> trasferindo desafio para git
